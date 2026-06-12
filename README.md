@@ -1,2 +1,2 @@
 # [LAB] AT-05-28: Implementar ORM de uma classe Modelo do Projeto
-## Teste
+## Exercício: Implementação de CRUD da classe Sensor.
